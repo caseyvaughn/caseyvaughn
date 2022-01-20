@@ -1,2 +1,5 @@
 - 👋  Hi, I’m Casey Vaughn!
-- 🌱  I’m currently learning JavaScript, CSS, & HTML. 
+- 🌱  I’m currently learning MongoDB. 
+
+Languages & Frameworks
+React | JavaScript | CSS | HTML | Node | 
