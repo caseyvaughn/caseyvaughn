@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Casey Vaughn!
-- 🌱  I’m currently learning MongoDB. 
+- 🌱  I’m currently learning Ruby on Rails! 
 
 Languages & Frameworks
-React | JavaScript | CSS | HTML | Node | 
+Express| MongoDB | React Bootstrap | React | JavaScript | CSS | HTML | Node | 
