@@ -3,4 +3,4 @@
 
 Languages & Frameworks
 <br>
-Express| MongoDB | React Bootstrap | React | JavaScript | CSS | HTML | Node | 
+Ruby on Rails | Express| MongoDB | React Bootstrap | React | JavaScript | CSS | HTML | Node | 
