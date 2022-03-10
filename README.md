@@ -1,6 +1,6 @@
-- 👋  Hi, I’m Casey (she/her) 
-- 👩🏼‍💻 I'm a full-stack developer based in Philadelphia
-- 🌱  I’m currently learning Ruby on Rails! 
+- 👋  Hi, I’m Casey (she/her)!
+- 👩🏼‍💻  I'm a full-stack developer based in Philadelphia
+- 🌱  I’m currently learning Ruby on Rails
 
 
 Languages & Frameworks
