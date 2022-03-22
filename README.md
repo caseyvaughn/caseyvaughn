@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Casey (she/her)!
+- 👋  Hi, I’m Casey (she/her)
 - 👩🏼‍💻  I'm a full-stack engineer based in Philadelphia
 - 🌱  I’m currently learning Typescript
 
