@@ -7,3 +7,5 @@ Languages & Frameworks
 <br>
 React | JavaScript | Node | Ruby on Rails | Express | MongoDB | CSS | HTML
 
+caseytvaughn.com
+
