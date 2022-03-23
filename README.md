@@ -5,7 +5,7 @@
 
 Languages & Frameworks
 <br>
-React | JavaScript | Node | Ruby on Rails | Express | MongoDB | CSS | HTML
+React | JavaScript | Node | Ruby on Rails | Express | MongoDB | PostgreSQL | SQL | CSS | HTML
 
 [caseytvaughn.com](https://caseytvaughn.com/)
 
